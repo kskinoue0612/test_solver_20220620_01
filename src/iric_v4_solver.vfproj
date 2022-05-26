@@ -53,10 +53,6 @@
 		<File RelativePath=".\INSTALL\meta\installscript.qs"/>
 		<File RelativePath=".\INSTALL\meta\package.xml"/></Filter></Filter>
 		<Filter Name="src" Filter="f90;for;f;fpp;ftn;def;odl;idl">
-		<File RelativePath=".\src\iric.f90"/>
-		<File RelativePath=".\src\main.f90"/></Filter>
-		<File RelativePath=".\build.bat"/>
-		<File RelativePath=".\LICENSE"/>
-		<File RelativePath=".\make.bat"/>
-		<File RelativePath=".\README.md"/></Files>
+		<File RelativePath=".\iric.f90"/>
+		<File RelativePath=".\main.f90"/></Filter></Files>
 	<Globals/></VisualStudioProject>
